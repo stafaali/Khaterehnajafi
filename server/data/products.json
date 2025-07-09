@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Luxury Foundation",
+    "brand": "GlamourPro",
+    "price": 49.99,
+    "category": "Face",
+    "description": "Full coverage, long-lasting foundation with SPF 30",
+    "image": "/api/placeholder/400/400",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 127
+  },
+  {
+    "id": "2",
+    "name": "Velvet Lipstick",
+    "brand": "BeautyLux",
+    "price": 24.99,
+    "category": "Lips",
+    "description": "Rich, matte finish lipstick in vibrant colors",
+    "image": "/api/placeholder/400/400",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 89
+  },
+  {
+    "id": "3",
+    "name": "Eyeshadow Palette",
+    "brand": "ColorMagic",
+    "price": 39.99,
+    "category": "Eyes",
+    "description": "12-shade eyeshadow palette with shimmer and matte finishes",
+    "image": "/api/placeholder/400/400",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 203
+  },
+  {
+    "id": "4",
+    "name": "Glow Highlighter",
+    "brand": "RadiantGlow",
+    "price": 29.99,
+    "category": "Face",
+    "description": "Illuminating highlighter for a natural glow",
+    "image": "/api/placeholder/400/400",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 156
+  },
+  {
+    "id": "5",
+    "name": "Mascara Volume Plus",
+    "brand": "LashMaster",
+    "price": 19.99,
+    "category": "Eyes",
+    "description": "Volumizing mascara for dramatic lashes",
+    "image": "/api/placeholder/400/400",
+    "inStock": false,
+    "rating": 4.5,
+    "reviews": 78
+  },
+  {
+    "id": "6",
+    "name": "Blush Compact",
+    "brand": "RosyGlow",
+    "price": 22.99,
+    "category": "Face",
+    "description": "Natural flush blush in multiple shades",
+    "image": "/api/placeholder/400/400",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 92
+  }
+]
