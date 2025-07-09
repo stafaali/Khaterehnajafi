@@ -95,6 +95,9 @@ export const AppProvider = ({ children }) => {
 
   // Configure axios defaults
   useEffect(() => {
+    const baseURL = process.env.REACT_APP_API_URL || '';
+    axios.defaults.baseURL = baseURL;
+    
     if (state.token) {
       axios.defaults.headers.common['Authorization'] = `Bearer ${state.token}`;
     } else {
